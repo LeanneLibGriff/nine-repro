@@ -1,3 +1,25 @@
+### Welcome to 9 Reproducible Research Things
+
+<br><br>
+
+<h2>Contents of this repository</h2><br><br>
+<!--
+<h3><a href='https://gitpitch.com/guereslib/Reproducible-Research-Things#/'>Slides for workshop</a></h3><br>
+<h3><a href='https://gitpitch.com/guereslib/Reproducible-Research-Things?n=TRUE#/'>Slides for workshop with instructor notes</a></h3><br>
+-->
+There's a README.md as part of the <a href="https://github.com/guereslib/Reproducible-Research-Things">git repository</a> that can give you some background.
+A Institute generic version of this can be found in a branch on the github.
+
+<h2>Lessons</h2>
+<a href='Step1Documentation'>Lesson 1 - Documentation</a><br>
+<a href='Step2Naming'>Lesson 2 - Naming Conventions</a><br>
+<a href='Step3FolderStruct'>Lesson 3 - Folder Structure</a><br>
+<a href='Step4Automation'>Lesson 4 - Automation</a><br>
+<a href='Step5Version'>Lesson 5 - Version control</a><br>
+<a href='Step6CloudBackup'>Lesson 6 - Cloud Backups</a><br>
+<a href='Step7CompSecurity'>Lesson 7 - Computer Security</a><br>
+<a href='Step8SepId'>Lesson 8 - Separating Identified Variables</a><br>
+<a href='Step9Identifiers'>Lesson 9 - Permanent Identifiers for your Published Results</a><br>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/weaverbel/repro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
