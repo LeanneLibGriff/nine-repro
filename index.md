@@ -3,7 +3,7 @@
 #### Contents of this repository
 
 ##### Lessons
-(Lesson 1 - Documentation)[Step1Documentation.md]
+[Step1Documentation.md](Lesson 1 - Documentation)
 
 <a href='Step2Naming.md'>Lesson 2 - Naming Conventions</a><br>
 
