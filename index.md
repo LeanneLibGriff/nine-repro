@@ -1,8 +1,8 @@
-### Welcome to 9 Reproducible Research Things
+## Welcome to 9 Reproducible Research Things
 
-#### Contents of this repository
+### Contents of this repository
 
-##### Lessons
+#### Lessons
 [Lesson 1 - Documentation](Step1Documentation.md)
 [Lesson 2 - Naming Conventions](Step2Naming.md)
 [Lesson 3 - Folder Structure](Step3FolderStruct.md)
