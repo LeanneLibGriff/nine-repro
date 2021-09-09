@@ -3,7 +3,7 @@
 <h2>Contents of this repository</h2>
 
 <h2>Lessons</h2>
-<a href='Step1Documentation.md'>Lesson 1 - Documentation</a><br>
+<a href='/Step1Documentation.md'>Lesson 1 - Documentation</a><br>
 <a href='Step2Naming.md'>Lesson 2 - Naming Conventions</a><br>
 <a href='Step3FolderStruct.md'>Lesson 3 - Folder Structure</a><br>
 <a href='Step4Automation.md'>Lesson 4 - Automation</a><br>
