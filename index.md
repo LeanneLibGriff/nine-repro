@@ -1,8 +1,6 @@
 ### Welcome to 9 Reproducible Research Things
 
-<br \>
-
-<h2>Contents of this repository</h2><br \>
+<h2>Contents of this repository</h2>
 
 <h2>Lessons</h2>
 <a href='Step1Documentation.md'>Lesson 1 - Documentation</a><br>
