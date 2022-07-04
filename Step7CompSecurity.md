@@ -6,14 +6,14 @@ nav: true
 ### Step 7
 ## Computer Security
 
-## Ensuring that your computer and network are secured means that you have far less a chance of a data breach or hack. 
+## Ensuring that your computer and network are secured means that there is far less risk of a data breach or hack. 
 
 
 Beginner
-* Have good strong passwords and encrypt your computer's hard drive
+* Have good strong passwords and encrypt your computer's hard drive.
 
 Intermediate
-* Get set up on a password manager
+* Use a password manager.
 
 Advanced
 * Let's ensure your lab/office is encrypted and practicing safe habits
@@ -34,7 +34,7 @@ The boss's computer is usually the most insecure
 
 Using Multi-Factor Authentication when the option is available (Signing in with a password and an email to your account with a pin)
 
-Avoid unsecure wifi - If its available, Eduroam is usually a better option than free wifi/cafe wifi
+Avoid unsecure wifi - If it's available, Eduroam is usually a better option than free wifi/cafe wifi
 
 
 Use a VPN whenever you’re not at work
