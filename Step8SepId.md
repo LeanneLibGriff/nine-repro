@@ -28,7 +28,7 @@ Here are examples of practical guidelines available nationally
 * med.data.edu.au gives information about anonymisation https://www.aihw.gov.au/reports-data
 * Office of the Information Commissioner Queensland’s guidance on de-identification techniques https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/applying-the-privacy-principles/privacy-and-de-identification
 
-## Tips for managing de-identificatioin (ARDC)
+## Tips for managing de-identification (ARDC)
 
 * Plan de-identification early in the research as part of your data management planning
 * Retain original unedited versions of data for use within the research team and for preservation
