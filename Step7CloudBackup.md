@@ -1,10 +1,10 @@
 ---
-title: Step 6 - Cloud backups
+title: Step 7 - Cloud backups
 nav: true
 ---
 
 
-### Step 6
+### Step 7
 ## Cloud Storage of your Data
 ---
 ## Keep a copy of your data on the cloud
