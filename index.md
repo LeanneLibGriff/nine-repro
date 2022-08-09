@@ -1,10 +1,8 @@
-## Welcome to 9 Reproducible Research Things
+## Reproducible Research - 10 steps to working more openly
 
-### Contents of this repository
+### Contents 
 
-#### Lessons
-
-[Introduction: Why reproducible research?](Step1DataQuality.md)
+####[Introduction: Why reproducible research?](Step1DataQuality.md)
 
 - [Lesson 1  -    Data quality](Step1DataQuality.md)
 - [Lesson 2  -    Documentation](Step2Documentation.md)
