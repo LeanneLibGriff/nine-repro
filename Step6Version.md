@@ -1,9 +1,9 @@
 ---
-title: Step 5 - Version Control
+title: Step 6 - Version Control
 nav: true
 ---
 
-### Step 5
+### Step 6
 ## Version Control
 ---
 ## A version control system allows users to keep track of changes in your Data or Process
