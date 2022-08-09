@@ -12,6 +12,6 @@
 - [Lesson 7  - Backing up to the cloud](Step7CloudBackup.md)
 - [Lesson 8  - Computer security](Step8CompSecurity.md)
 - [Lesson 9  - De-identify data](Step9Identifiers.md)
-- [Lesson 10 - Publish with persistent identifiers](StepTenVersion.md)
+- [Lesson 10 - Publish with persistent identifiers](StepTenSepId.md)
 
 
