@@ -1,9 +1,11 @@
-## Reproducible Research - Ten steps to working more openly
+## Reproducible Research
 
-### Contents 
+### Ten steps to working more openly
+
+#### Contents 
 
 
-[Introduction:why reproducible research?](Step1DataQuality.md)
+[Introduction: why reproducible research?](Step1DataQuality.md)
 
 - [Lesson 1  -    Data quality](Step1DataQuality.md)
 - [Lesson 2  -    Documentation](Step2Documentation.md)
