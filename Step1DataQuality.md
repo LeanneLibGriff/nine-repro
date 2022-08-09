@@ -6,8 +6,9 @@ nav: true
 
 ## Step 1 Data Quality
 
- Section 1: Using "tidy data" principles
- Section 2: Identify and code illigal or missing values
+  Section 1: Using "tidy data" principles
+ 
+  Section 2: Identify and code illigal or missing values
 
 ### Using "tidy data" principles
 
