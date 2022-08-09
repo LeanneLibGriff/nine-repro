@@ -8,9 +8,11 @@ nav: true
 
 ## Data Quality
 
-Section 1: Why reproducible research?
-Section 2: Using "tidy data" principles
-Section 3: Identify and code illigal or missing values
+ 
+ 
+ Section 1: Using "tidy data" principles
+ 
+ Section 2: Identify and code illigal or missing values
 
 ### Why reproducible research?
 
