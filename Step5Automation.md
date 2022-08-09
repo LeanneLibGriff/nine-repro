@@ -1,9 +1,9 @@
 ---
-title: Step 4 - Automation
+title: Step 5 - Automation
 nav: true
 ---
 
-### Step 4
+### Step 5
 ## Automation
 ---
 ## Can you automate any repetitive tasks? 
