@@ -1,6 +1,7 @@
 ## Reproducible Research
 
-### Contents - 10 steps to working more openly
+### Contents
+#### Ten steps to working more openly
 
 
 [Why reproducible research?](Step1DataQuality.md)
