@@ -1,9 +1,9 @@
 ---
-title: Step 2 - Naming
+title: Step 3 - Naming
 nav: true
 ---
 
-### Step 2
+### Step 3
 ## Naming Conventions
 
 ## What is a File Naming Convention?
