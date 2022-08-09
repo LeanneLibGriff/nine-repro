@@ -1,9 +1,9 @@
 ---
-title: Step 7 - Computer Security
+title: Step 8 - Computer Security
 nav: true
 ---
 
-### Step 7
+### Step 8
 ## Computer Security
 
 ## Ensuring that your computer and network are secured means that there is far less risk of a data breach or hack. 
