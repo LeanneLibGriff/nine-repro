@@ -1,7 +1,8 @@
 ## Reproducible Research
 
 ### Contents
-### Ten steps to working more openly
+Ten steps to working more openly
+
 
 - [Step 1  -    Data quality](Step1DataQuality.md)
 - [Step 2  -    Documentation](Step2Documentation.md)
