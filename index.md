@@ -11,7 +11,7 @@
 - [Lesson 6 - Version control](Step5Version.md)
 - [Lesson 7 - Cloud Backups](Step6CloudBackup.md)
 - [Lesson 8 - Computer Security](Step7CompSecurity.md)
-- [Lesson 9- Separating Identified Variables](Step8SepId.md)
+- [Lesson 9 - Separating Identified Variables](Step8SepId.md)
 - [Lesson 10 - Permanent Identifiers for your Published Results](Step9Identifiers.md)
 
 
