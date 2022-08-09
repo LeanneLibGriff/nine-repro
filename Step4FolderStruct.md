@@ -1,10 +1,10 @@
 ---
-title: Step 3 - Folder Structure
+title: Step 4 - Folder Structure
 nav: true
 ---
 
 
-## Step 3
+## Step 4
 ### Folder Structures
 
 ### Having a standard folder structure can keep your files neat and tidy and save you time looking for data.  It can also help if you are sharing files with colleagues and having a standard place to put working data and documentation.
