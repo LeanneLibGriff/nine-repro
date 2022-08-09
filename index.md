@@ -3,9 +3,6 @@
 ### Contents
 ### Ten steps to working more openly
 
-
-[Why reproducible research?](Step1DataQuality.md)
-
 - [Step 1  -    Data quality](Step1DataQuality.md)
 - [Step 2  -    Documentation](Step2Documentation.md)
 - [Step 3  -    File naming conventions](Step3Naming.md)
