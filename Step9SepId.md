@@ -1,9 +1,9 @@
 ---
-title: Step 8 - De-identify data
+title: Step 9 - De-identify data
 nav: true
 ---
 
-### Step 8
+### Step 9
 ## De-identify data
 
 Sensitive data are data that can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. Major, familiar categories of sensitive data are: personal data - health and medical data - ecological data that may place vulnerable species at risk.
