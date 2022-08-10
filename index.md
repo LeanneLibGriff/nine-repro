@@ -3,7 +3,7 @@
 ### Contents
 Ten steps to working more openly
 
-[Introduction: Why reproducible research?](Step1DataQuality.md)
+[Introduction: Why reproducible research?](Step00_intro_why_repro_research.md)
 
 - [Step 1  -    Data quality](Step1DataQuality.md)
 - [Step 2  -    Documentation](Step2Documentation.md)
