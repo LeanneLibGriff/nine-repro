@@ -6,7 +6,7 @@ nav: true
 
 ## Introduction: Why reproducible research?
 
-#### Replication is a fundamental tenet of science...  but there is growing concern in the research community that too few studies are able to be replicated. Research is reproducible when others can replicate the results of a study with only the original data, code and documentation. 
+#### Replication is a fundamental tenet of science...  but there is growing concern in the research community that too few studies are able to be replicated. Research is considered reproducible when the results of a study can be replicated with only the original data, code and documentation. 
 
 #### Reproducible research is a by-product of care attention to detail throughout the research process... it ensures that the researcher can repeat the same analysis multiple times with the same result, at any point in the process.
 
