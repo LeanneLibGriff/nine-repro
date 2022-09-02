@@ -23,7 +23,7 @@ nav: true
 #### Many attempted replications of well-known scientific studies have failed in a wide variety of disciplines and rates of article retractions are increasing. ###
 
 
-_Image: Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). https://doi.org/10.1038/533452a
+
 
 
 
