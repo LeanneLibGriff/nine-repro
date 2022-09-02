@@ -25,6 +25,9 @@ nav: true
 
 
 
+##### Image: Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). https://doi.org/10.1038/533452a
+
+
 
 
 
