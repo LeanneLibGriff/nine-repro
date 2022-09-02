@@ -20,9 +20,7 @@ nav: true
 - Reproducible research is a strong indicator of rigor, trustworthiness and transparency. It can incease the quality of speed of peer review.
 - Reproducible research inceases paper citation rates and allows other researchers to cite code and data in addition to publications. This enables a given research project to have more impact than it would if the data or methods were hidden from the public.
 
-#### Many attempted replications of well-known scientific studies have failed in a wide variety of disciplines and rates of paper retractions are increasing. ###
-
-{% include figure.html img="2022_failed-to-replciate-experiment.jpg" alt="Graph showing percentage of researchers who have been unable to reproduce experiments across disciplines" caption="Most scientists have experienced failure to reproduce results" width="100%" %}
+#### Many attempted replications of well-known scientific studies have failed in a wide variety of disciplines and rates of article retractions are increasing. ###
 
 
 _Image: Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). https://doi.org/10.1038/533452a
