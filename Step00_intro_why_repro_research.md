@@ -25,7 +25,7 @@ nav: true
 {% include figure.html img="https://github.com/LeanneLibGriff/nine-repro/blob/gh-pages/images/2022_failed-to-replciate-experiment.jpg" alt="Graph showing percentage of researchers who have been unable to reproduce experiments across disciplines" caption="Most scientists have experienced failure to reproduce results" width="100%" %}
 
 
-##### Image: Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). https://doi.org/10.1038/533452a
+_Image: Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). https://doi.org/10.1038/533452a
 
 
 
