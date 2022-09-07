@@ -8,7 +8,7 @@ nav: true
 
 ### Documentation
 
-<img scr="https://raw.githubusercontent.com/LeanneLibGriff/nine-repro/d089058a21ca3fb1ca71b0faf5df47f416f85270/images/doorsBanner.png" alt="Image suggesting multiple choices" align="center">
+![Just a pretty picture](/nine-repro/images/doorsBanner.png)
           
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
