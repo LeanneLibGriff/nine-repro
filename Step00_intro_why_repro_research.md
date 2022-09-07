@@ -6,7 +6,7 @@ nav: true
 
 ## Introduction: Why reproducible research?
 
-#### Replication is a fundamental principle of science...  however, there is growing concern in the research community that too few studies are able to be replicated. Research is considered reproducible when the results of a study can be replicated with only the original data, code and documentation. 
+#### Replication is a fundamental principle of science but there is an increasing fear in the research community that too few studies are able to be replicated. Research is considered reproducible when the results of a study can be replicated with only the original data, code and documentation. 
 
 #### Reproducible research is a by-product of care and attention to detail throughout the research process.
 
@@ -21,7 +21,9 @@ nav: true
 #### Many attempted replications of well-known scientific studies have failed in a wide variety of disciplines and rates of article retractions are increasing. ###
 
 References
+Alston, J. M., & Rick, J. A. (2021). A beginner's guide to conducting reproducible research. The Bulletin of the Ecological Society of America, 102(2). https://doi.org/10.1002/bes2.1801
 
+Essawy, B. T., J. L. Goodall, D. Voce, M. M. Morsy, J. M. Sadler, Y. D. Choi, D. G. Tarboton, & T. Malik. (2020). A taxonomy for reproducible and replicable research in environmental modelling. Environmental Modelling & Software 134:104753.
 
 
 
