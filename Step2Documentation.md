@@ -8,18 +8,15 @@ nav: true
 
 ### Documentation
 
+Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
-Documentation is the idea of documenting your procedures for your experiment so that an outsider could understand the workings of your lab. 
+For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
 
-This can include where your results and working data are saved. Copy your lab notebook if you have one onto a digital format and save it to a safe place (such as research storage). 
+There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
-Make sure these are saved somewhere that's accessible to your supervisor/team. 
+The choices made at the time may seem obvious, but it may not be so in future. Choices are often limited by methodology or technology but both may undergo changes or digital disruption after the project is over, or even during the project.  
 
-Note: 
-Highlight that it can be as simple as a word document on research space or taking photos of your lab notebook and uploading them into a folder. 
-
-
-Have you got a new staff member coming onboard to your team? They are a prime candidate to collate information and document as it will help them become familiar to the team and learn how the lab/team works.
+Within a research group, another possible disruption is the loss of one of the members of the team. If that happens with someone whose role or skills are crucial to the project. Comprehensive documentation can be crucial to the future of the project when someone new takes over that role. 
 
 ## Bus Factor
 
