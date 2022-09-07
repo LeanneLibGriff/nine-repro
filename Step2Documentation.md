@@ -8,7 +8,7 @@ nav: true
 
 ### Documentation
 
-![Just a pretty picture](/nine-repro/images/doorsBanner.png)
+![Where's the image?](/nine-repro/images/doorsBanner.png)
           
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
@@ -21,6 +21,19 @@ The choices made at the time may seem obvious, but it may not be so in future. C
 Within a research group, another possible disruption is the loss of one of the members of the team. If that happens with someone whose role or skills are crucial to the project. Comprehensive documentation can be crucial to the future of the project when someone new takes over that role. 
 
 ## Bus Factor
+
+Documentation also reduces the risk to a research team from a low Bus Factor. 
+
+The Bus Factor is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project – even compromising the entire research process. It is also called lottery number, which has a more positive connotation but the threat to the team remains the same.  
+
+Individual circumstances can change suddenly and if it should occur to a member of the team that could cause major disruption or corruption of the research project that is a Bus Factor of 1. The smaller the number, the more danger there is to the project. Ideally, the number of people that would have to be lost for the research project to fail must be as high as possible. 
+
+As an example, Terry is responsible for the coding for processing the data for a team project. To the rest of the team, his work is a bit advanced, and most people do not think that they could do what he does. He enjoys his work and enjoy being a central figure within the group. Tim is both exceptionally good at his work and reliable.  
+
+One day, Terry announces that his wife has been offered a lucrative position overseas and Tim is resigning. Suddenly, most of the knowledge of Terry’s role will be lost to the team.  
+
+Without careful management, a major change to a research team could be more than just disruptive; it has the potential to corrupt the entire project. Comprehensive documentation is a significant strategy for minimising the disruption. 
+
 
 Note:
 Ideally you want to document anything that a lab member coming on board would need to know. Documentation is all about changing your Bus Factor - how many people on a project would need to be hit by a bus to make a project fail. Many times, projects can have a bus factor of one. Adding documentation means when someone goes on leave, needs to take leave suddenly or finishes their study, their work is preserved for your lab.
