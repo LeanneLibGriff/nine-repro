@@ -8,6 +8,8 @@ nav: true
 
 ### Documentation
 
+<img scr="nine-repro/images/doorsBanner.png" alt="Image suggesting multiple choices" align="ceter">
+          
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
