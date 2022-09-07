@@ -22,13 +22,13 @@ Within a research group, another possible disruption is the loss of one of the m
 
 ## Bus Factor
 
-Documentation also reduces the risk to a research team from a low Bus Factor. 
+Documentation also reduces the risk to a research team from a low **Bus Factor**. 
 
-The Bus Factor is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project – even compromising the entire research process. It is also called lottery number, which has a more positive connotation but the threat to the team remains the same.  
+The Bus Factor is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project;  compromising the entire research process. It is also called the *Lottery Number*, which has a more positive connotation but the threat to the team remains the same.  
 
-Individual circumstances can change suddenly and if it should occur to a member of the team that could cause major disruption or corruption of the research project that is a Bus Factor of 1. The smaller the number, the more danger there is to the project. Ideally, the number of people that would have to be lost for the research project to fail must be as high as possible. 
+Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption to the research project, that is considered to be a Bus Factor of 1. The smaller the number, the more danger there is to the project. The number of people that would have to be lost for the research project to fail must be as high as possible. 
 
-As an example, Terry is responsible for the coding for processing the data for a team project. To the rest of the team, his work is a bit advanced, and most people do not think that they could do what he does. He enjoys his work and enjoy being a central figure within the group. Tim is both exceptionally good at his work and reliable.  
+As an example, Terry is responsible for the coding for processing and analysing the data for a team project. To the rest of the team, his ability in coding is impressive, and they don't believe they have the skills and aptitude to do this work so they rely upon him to lead in this process. Terry enjoys his work and his status within the group. 
 
 One day, Terry announces that his wife has been offered a lucrative position overseas and Tim is resigning. Suddenly, most of the knowledge of Terry’s role will be lost to the team.  
 
