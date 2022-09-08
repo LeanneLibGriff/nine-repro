@@ -6,7 +6,7 @@ nav: true
 ### Step 3
 ## Naming Conventions
 
-Very few people are drawn to research for the administrative tasks but there are many management process that, if implemented early and consistently, can allow researchers to focus on the real work. 
+Very few people are drawn to research for the administrative tasks but there are many management processes that, if implemented early and consistently, can enable researchers to focus on the real work. Establishing and agreeing on a convention by which all files must be named can greatly help the work of the researcher. Establishing and agreeing (in the case of a research team) on a convention by which all files must be named can greatly help the work of the researcher.
 
 ## What is a File Naming Convention?
 
