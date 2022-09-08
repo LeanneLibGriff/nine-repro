@@ -8,7 +8,7 @@ nav: true
 
 ### Documentation
 
-![Where's the image?](/nine-repro/images/doorsBanner.png)
+![Where's the flippin' image?](/nine-repro/images/doorsBanner.png)
           
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
@@ -20,7 +20,7 @@ The choices made at the time may seem obvious, but it may not be so in future. C
 
 Within a research group, another possible disruption is the loss of one of the members of the team. If that happens with someone whose role or skills are crucial to the project. Comprehensive documentation can be crucial to the future of the project when someone new takes over that role. 
 
-## Bus Factor
+## Documentation as insurance
 
 Documentation also reduces the risk to a research team from a low **Bus Factor**. 
 
