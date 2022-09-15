@@ -8,7 +8,6 @@ nav: true
 
 ### Documentation
 
-![Where's the flippin' image?](/nine-repro/images/doorsBanner.png)
           
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
