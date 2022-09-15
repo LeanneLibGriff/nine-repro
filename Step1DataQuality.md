@@ -13,7 +13,7 @@ nav: true
 ### Using "tidy data" principles
 Are you datasets future-proof? As your research progresses, new paths for enquiry might appear and you may want to analyse your data with a new method. Depending on how you recorded and stored your data, the amount of work required to reconfigure your datasets so that new analyses can be processed and modelled may be excessively time-consuming. While all the necessary data may exist within your datasets, there is no straightforward way of extracting it.
 
-The principles of **tidy data** offer a way of recording your data, be it in spreadsheet or database tables, so that which every element within the dataset can easily be accessed for new analysing and modelling. Even if a dataset needs to be reconfigured to before being imported into the new software, it is a simple process to produce the necessary file from tidy data. 
+The principles of **tidy data** offer a way of recording your data, be it in spreadsheet or database tables, so that every element within the dataset can easily be accessed for new analysing and modelling. Even if a dataset needs to be reconfigured to before being imported into the new software, it is a simple process to produce the necessary file from tidy data. 
 
 **The fundamental principles of tidy data are:**
 - Each variable is a column.
@@ -43,6 +43,8 @@ whitespace around values
 typographical errors, misspellings 
 incomplete answers 
 conflicting conventions for data values
+
+***Hey, you're still looking***
 
 Data cleaning and data wrangling
 While it is possible to avoid the worst of these two processes if you’re careful with your own data, you may have to fix both the accuracy of the data and the way that it is structured before you are able to import into any of your systems. 
