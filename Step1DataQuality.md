@@ -20,7 +20,7 @@ The principles of **tidy data** offer a way of recording your data, be it in spr
 - Each row is an observation.
 - Each cell contains one value.
 
-These principles are not an arbitrary approach to structuring data. By arranging all the variables of an observation along a single row, all elements about an observation are contained within a single, clearly delineated record: its own row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, or a biological sample etc, are reliably linked to their subject. 
+These principles are not an arbitrary approach to structuring data. By arranging all the variables of an observation along a single row, all elements about an observation are contained within a single, clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, or a biological sample etc, are reliably linked to their subject. 
 
 Tidy data provides both the stability and the flexibility to reliably process and export data to any system, including running processes and modelling which later become useful or significant to your research.  
 
