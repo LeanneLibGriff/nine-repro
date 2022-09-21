@@ -16,4 +16,6 @@ Ten steps to working more openly
 - [Step 9  -    De-identify data](Step9Identifiers.md)
 - [Step 10 -    Publish with persistent identifiers](StepTenSepId.md)
 
+[References](References.md)
+
 
