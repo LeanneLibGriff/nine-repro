@@ -9,6 +9,7 @@ nav: true
 #### Replication is a fundamental principle of science. Replication verifies results and can confirm the findings of the original experiment; however, research papers often lack the detail required for independent replication. Many attempts at reproducing the results well-known scientific studies have failed in a variety of disciplines. There is a fear in the research community that too few studies are able to be replicated and the number of papers being retracted due to a lack of reproducibilty is increasing. 
 
 Research is considered reproducible when others can reproduce results of a study with only the original data, code and documentation.
+
 Reproducible research has most of the advantages of replicating studies without the financial and time burden associated with collecting new data.
 
 
