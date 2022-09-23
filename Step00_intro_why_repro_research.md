@@ -23,7 +23,7 @@ Reproducible research has most of the advantages of replicating studies without 
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency. It can incease the quality and speed of peer review.
 - Inceases in citation rates and expanded research impact through the ability to access and cite the project code and data.
 
-#### Many attempted replications of well-known scientific studies have failed in a wide variety of disciplines and rates of article retractions are increasing. ###
+
 
 References
 
