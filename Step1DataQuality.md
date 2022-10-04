@@ -34,43 +34,11 @@ A way of organising the data that you are normally collecting but doing in a way
 
 **Don't look beyond here**
 
-***Hey, I said don't look***
-
-
-This can largely be done through validating data and input via forms in the case of spreadsheets.
-special characters or encoding issues 
-inconsistent name case & format 
-date format variations 
-whitespace around values  
-typographical errors, misspellings 
-incomplete answers 
-conflicting conventions for data values
-
-***Hey, you're still looking***
-
-Data cleaning and data wrangling
-While it is possible to avoid the worst of these two processes if you’re careful with your own data, you may have to fix both the accuracy of the data and the way that it is structured before you are able to import into any of your systems. 
-
-You want to this because data cleaning and data wrangling can be very time consuming. Folk have said that researchers spend most of their time fixing.
-
-Unfortunately, if you have untidy data from some other source or another time, you will need to do both some data cleaning and data wrangling. 
-
-You may have to export data in a different format for different systems, and tidy data makes it possible.
-
-This can be done on spreadsheets through creating forms. Also validating the input. 
-
-In the case of having to do it respectively with your own data from before, or using data from a repository which doesn’t conform, or doing some process that outputs the results in a different format, there are ways that you can make the data tidy. Public data
-
-https://www.tableau.com/learn/articles/what-is-data-cleaning
-
-Data wrangling
-
-There are ways that existing data can be cleaned up. Sometimes called data wrangling.
-
+As part of the tidy data approach, each cell must contain a value and, in some cases, data validation, mandatory fields, and formatted cells can ensure data is stored correctly, avoiding inconsistent formats, typographical errors, and incomplete data.
+Data cleaning and data wrangling 
+While it is possible to avoid the worst of these two processes if you’re careful with your own data, you may have to fix both the accuracy of the data and the way that it is structured before you are able to import into any of your systems.
 Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
-
-There are operational reasons for ensuring that your data are laid out in a consistent way. There is often a need to translate values etc to use in different systems.
-
-Considering that spreadsheets are the most common way to collate data but there are also databases. 
-
-Maybe there is a value that does not register very often. If it is not given its own column, there is nothing that can be done with that information - even the information that it is a negative value for most data points. 
+Unfortunately, if you have untidy data from some other source or another time, you will need to do both some data cleaning and data wrangling.
+In the case of having to do it respectively with your own data from before, or using data from a repository which doesn’t conform, or doing some process that outputs the results in a different format, there are ways that you can make the data tidy. Public data
+https://www.tableau.com/learn/articles/what-is-data-cleaning
+There are ways that existing data can be cleaned up. Sometimes called data wrangling.
