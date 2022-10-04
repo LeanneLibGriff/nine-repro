@@ -11,20 +11,22 @@ nav: true
   Section 2: Identify and code illigal or missing values
 
 ### Using "tidy data" principles
-Are you datasets future-proof? As your research progresses, new paths for enquiry might appear and you may want to analyse your data with a new method. Depending on how you recorded and stored your data, the amount of work required to reconfigure your datasets so that new analyses can be processed and modelled may be excessively time-consuming. While all the necessary data may exist within your datasets, there is no straightforward way of extracting it.
+Are you datasets future-proof? 
 
-The principles of **tidy data** offer a way of recording your data, be it in spreadsheet or database tables, so that every element within the dataset can easily be accessed for new analysing and modelling. Even if a dataset needs to be reconfigured to before being imported into the new software, it is a simple process to produce the necessary file from tidy data. 
+As your research progresses, new possibilities for enquiry might be revealed and you may want to use a new method to analyse your data. Depending on how you recorded and stored your data, it may take a lot of time-consuming work to reconfigure your datasets before you can process the new analysis. While all the necessary data may exist within your datasets, there may be no simple and reliable method for extracting it.
+
+The principles of **tidy data** offer a way of recording your data, be it in spreadsheet or database tables, so that every element within the dataset can easily be accessed for new analysis and modelling. Even if a dataset needs to be reconfigured before being imported into the new software, it will be a simple process to produce the necessary file. 
 
 **The fundamental principles of tidy data are:**
 - Each variable is a column.
 - Each row is an observation.
 - Each cell contains one value.
 
-These principles are not an arbitrary approach to structuring data. By arranging all the variables of an observation along a single row, all elements about an observation are contained within a single, clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, or a biological sample etc, are reliably linked to their subject. 
+By arranging all the variables of an observation along a single row, all elements about an observation are contained within a single, clearly delineated record: the single row. With all variables recorded in columns, these observations of a patient, a survey respondent, an event, or a biological sample etc, are reliably linked to their subject. 
 
 Tidy data provides both the stability and the flexibility to reliably process and export data to any system, including running processes and modelling which later become useful or significant to your research.  
 
-In a spreadsheet, this format cannot vary for putting in additional data for one observation or for aesthetically pleasing layout so there can be no merged cells. [***incorporate images from PowerPoint***]
+In a spreadsheet, this format must not vary to accomodate additional data for an individual observation or for aesthetically pleasing layout e.g. merged cells. [***incorporate images from PowerPoint***]
 
 With the requirement for each cell to contain one value, it is important for each cell to contain only one. This will isolate and label the information about a variable and simplify the process of accessing it when required. As an example, when recording the addresses of a respondent for future correspondence, the choice of a single cell for the entire address makes potential useable data difficult to access. By dividing these details across several variables, the potential exists to model additional data based on location.
 
