@@ -34,13 +34,14 @@ A way of organising the data that you are normally collecting but doing in a way
 
 As part of the tidy data approach, each cell must contain a value. In some cases data validation, mandatory fields, and formatted cells can ensure that data is stored correctly, avoiding inconsistent formats, typographical errors, and incomplete data.
 
-###Data cleaning and data wrangling 
-While it is possible to avoid the worst of these processes if you’re careful with your own data, you many find that you will have improve datasets created by other researchers or organisations. 
+### Data cleaning and data wrangling 
+While it is possible to avoid the worst of these processes if you’re careful with your own data, you many have to improve datasets created by other researchers or organisations. This might be because of inconsistencies in the way the data is structed or in how the values are formated, or both.
 
 
 
 you may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
 Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
+
 Unfortunately, if you have untidy data from some other source or another time, you will need to do both some data cleaning and data wrangling.
 In the case of having to do it respectively with your own data from before, or using data from a repository which doesn’t conform, or doing some process that outputs the results in a different format, there are ways that you can make the data tidy. Public data
 https://www.tableau.com/learn/articles/what-is-data-cleaning
