@@ -30,13 +30,16 @@ In a spreadsheet, this format must not vary to accommodate additional data for a
 
 With the requirement for each cell to contain one value, it is important for each cell to contain only one. This will isolate and label the information about a variable and simplify the process of accessing it when required. As an example, when recording the addresses of a respondent for future correspondence, the choice of a single cell for the entire address makes potential useable data difficult to access. By dividing these details across several variables, the potential exists to model additional data based on location.
 
-A way of organising the data that you are normally collecting but doing in a way that helps importing into different systems for analysis and visualisation. Together, these approaches will give you the option to shift focus or introduce new elements to your analysis without major conversion. As you need to record data, best to future-proof it. 
+A way of organising the data that you are normally collecting but doing in a way that helps importing into different systems for analysis and visualisation. Together, these approaches will give you the option to shift focus or introduce new elements to your analysis without major conversion. If your datasets are stored on a spreadsheet, it is best to be able to achive them in CSV format.
 
-**Don't look beyond here**
+As part of the tidy data approach, each cell must contain a value. In some cases data validation, mandatory fields, and formatted cells can ensure that data is stored correctly, avoiding inconsistent formats, typographical errors, and incomplete data.
 
-As part of the tidy data approach, each cell must contain a value and, in some cases, data validation, mandatory fields, and formatted cells can ensure data is stored correctly, avoiding inconsistent formats, typographical errors, and incomplete data.
-Data cleaning and data wrangling 
-While it is possible to avoid the worst of these two processes if you’re careful with your own data, you may have to fix both the accuracy of the data and the way that it is structured before you are able to import into any of your systems.
+###Data cleaning and data wrangling 
+While it is possible to avoid the worst of these processes if you’re careful with your own data, you many find that you will have improve datasets created by other researchers or organisations. 
+
+
+
+you may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
 Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
 Unfortunately, if you have untidy data from some other source or another time, you will need to do both some data cleaning and data wrangling.
 In the case of having to do it respectively with your own data from before, or using data from a repository which doesn’t conform, or doing some process that outputs the results in a different format, there are ways that you can make the data tidy. Public data
