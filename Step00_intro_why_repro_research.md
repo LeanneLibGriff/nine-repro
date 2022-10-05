@@ -23,13 +23,6 @@ Research is considered reproducible when others can reproduce results of a study
 
 This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
 
-References
-
- Alston, J. M., & Rick, J. A. (2021). A beginner's guide to conducting reproducible research. The Bulletin of the Ecological Society of America, 102(2). https://doi.org/10.1002/bes2.1801
- 
- Arguillas, Florio; Christian, Thu-Mai; Gooch, Mandy; Honeyman, Tom; Peer, Limor; CURE-FAIR WG 10 Things for Curating Reproducible and FAIR Research, Research Data Alliance https://doi.org/10.15497/RDA00074
-
- Essawy, B. T., J. L. Goodall, D. Voce, M. M. Morsy, J. M. Sadler, Y. D. Choi, D. G. Tarboton, & T. Malik. (2020). A taxonomy for reproducible and replicable research in environmental modelling. Environmental Modelling & Software 134:104753.
 
 
 
