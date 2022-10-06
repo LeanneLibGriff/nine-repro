@@ -19,7 +19,10 @@ Replicating studies with new data is expensive, for this reason computationally 
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency. It can incease the quality and speed of peer review.
 - Inceases in citation rates and expanded research impact through the ability to access and cite the project code and data.
 
-This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
+This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. 
+
+
+By following these steps, you will not only improve on the quality of your research processes but facilitate the development of new and innovative research through good practice.
 
 
 
