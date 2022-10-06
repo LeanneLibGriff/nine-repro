@@ -4,7 +4,7 @@ nav: true
 ---
 
 
-## Introduction: replication vs reproducible research
+## Introduction: Replication vs Reproducible Research
 
 #### A basic tenet in science is the ability to replicate the results of any experiment. Replication verifies results; however, research papers often lack the detail required for independent replication. Many attempts at replicating the results well-known scientific studies have failed in a variety of disciplines. 
 
