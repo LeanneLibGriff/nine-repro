@@ -10,6 +10,9 @@ nav: true
 
 Replicating studies with new data is expensive, for this reason computationally reproducible research is recommended as a way to assess the validity and rigor of scientific results. Research is considered reproducible when others can reproduce results of a study with only the original data, code and documentation. 
 
+__Computational reproducibility isdefinedas the abilityto obtain consistent computational resultsusing the same input data, computational steps, methods, code, and analysis conditions as thoseused in the original study. Computational reproducibility is a means of making scientific claims moretransparent. It is imperative for verifying and building upon reported findings, preserving a completescientific record, and enhancing pedagogical strategies for research methods training.
+__Arguillas, F., Christian, T, Gooch, M., Honeyman, T., Peer, L., CURE-FAIR WG.(2022). 10 Things for Curating Reproducible and FAIR Research: RDA Recommendation. Research Data Alliance https://doi.org/10.15497/RDA00074
+
 
 Reproducible research has most of the advantages of replicating studies without the financial and time burden associated with collecting new data. It is the by-product of care and attention to detail throughout the research process and seen as a minimum standard that all researchers should strive for.
 
