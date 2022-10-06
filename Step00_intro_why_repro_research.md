@@ -13,6 +13,9 @@ Replicating studies with new data is expensive, for this reason computationally 
 
 Reproducible research has most of the advantages of replicating studies without the financial and time burden associated with collecting new data. It is the by-product of care and attention to detail throughout the research process and seen as a minimum standard that all researchers should strive for.
 
+##### Computational reproducibility is defined as the ability to obtain consistent computational results using the same input data, computational steps, methods, code, and analysis conditions as those used in the original study. Computational reproducibility is a means of making scientific claims more transparent. It is imperative for verifying and building upon reported findings, preserving a complete scientific record, and enhancing pedagogical strategies for research methods training.
+_Arguillas, F., Christian, T, Gooch, M., Honeyman, T., Peer, L., CURE-FAIR WG.(2022). 10 Things for Curating Reproducible and FAIR Research: RDA Recommendation. Research Data Alliance https://doi.org/10.15497/RDA00074
+
 
 **Benefits of reproducible research**
 
