@@ -17,11 +17,11 @@ Reproducible research has most of the advantages of replicating studies without 
 **Benefits of reproducible research**
 
 - Easier recall and explanation of work to collaborators, supervisors and reviewers
-- Ability to quickly modify anlayses and figures
-- Enables quick reconfiguration of research taska for new projects with similar tasks.
-- Reproducible research is a strong indicator of rigour, trustworthiness and transparency. It can increase the quality and speed of peer review.
-- Inceases in citation rates and expanded research impact through the ability to access and cite the project code and data
-- Enhances opportunities for research methods training.
+- Ability to quickly modify analyses and figures
+- Facilitates quick reconfiguration of research tasks for new projects with similar tasks
+- Reproducible research is a strong indicator of rigour, trustworthiness and transparency. It can increase the quality and speed of peer review
+- Increases in citation rates and expanded research impact through the ability to access and cite the project code and data
+- Enhances opportunities for research methods training
 
 This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality or tidy data, documentation, management of sensitive data, through to the publication of datasets. 
 
