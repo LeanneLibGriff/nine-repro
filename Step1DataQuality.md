@@ -35,15 +35,21 @@ A way of organising the data that you are normally collecting but doing in a way
 As part of the tidy data approach, each cell must contain a value; even if it's the equivalent of zero. In some cases input validation, mandatory fields, and formatted cells can ensure that data is stored correctly to avoid inconsistent formats, typographical errors, and incomplete data.
 
 ### Data cleaning and data wrangling 
-To prepare datasets from outside sources, you may need to:
+To take datasets from outside sources or from inexact processes such as webscraping and prepare them for analysis along with your tidy data, you may need to:
 - convert the format or structure of the data
 - remove duplicate or irrelevant observations
-- map the data to perform different function
 - standardise the format of observations
+- change naming conventions
+- correct errors
+- or preform many more adjustments to make a dataset suitable for your processes.
 
+The terms "data cleaning" and "data wrangling" are often used interchangably but they can be defined separately as:
+- Data wrangling: transforming and mapping a dataset
+- Data cleaning: removing or correcting data 
 
+While small datasets could be altered manually, large scale datasets may require specialised functions or software to process multiple records.
 
-While it is possible to avoid the worst of these processes if you’re careful with your own data, you many have to improve datasets created by other researchers or organisations. Some outputs from your own processes, such as web scrapping, may also need to be altered because of inconsistencies in the way the data is structed or in how the values are formate. You may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
+Some outputs from your own processes, such as web scrapping, may also need to be altered because of inconsistencies in the way the data is structed or in how the values are formate. You may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
 
 Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
 
