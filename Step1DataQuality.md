@@ -35,6 +35,14 @@ A way of organising the data that you are normally collecting but doing in a way
 As part of the tidy data approach, each cell must contain a value; even if it's the equivalent of zero. In some cases input validation, mandatory fields, and formatted cells can ensure that data is stored correctly to avoid inconsistent formats, typographical errors, and incomplete data.
 
 ### Data cleaning and data wrangling 
+To prepare datasets from outside sources, you may need to:
+- convert the format or structure of the data
+- remove duplicate or irrelevant observations
+- map the data to perform different function
+- standardise the format of observations
+
+
+
 While it is possible to avoid the worst of these processes if you’re careful with your own data, you many have to improve datasets created by other researchers or organisations. Some outputs from your own processes, such as web scrapping, may also need to be altered because of inconsistencies in the way the data is structed or in how the values are formate. You may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
 
 Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
