@@ -47,13 +47,4 @@ The terms "data cleaning" and "data wrangling" are often used interchangably but
 - Data wrangling: transforming and mapping a dataset
 - Data cleaning: removing or correcting data 
 
-While small datasets could be altered manually, large scale datasets may require specialised functions or software to process multiple records.
-
-Some outputs from your own processes, such as web scrapping, may also need to be altered because of inconsistencies in the way the data is structed or in how the values are formate. You may have to fix both the accuracy of the data and how it is structured before you are able to import into any of your systems.
-
-Even if you do everything to produce tidy data, you may find that you are drawing upon untidy data produced by someone else or from problematic processes such as web scraping.
-
-Unfortunately, if you have untidy data from some other source or another time, you will need to do both some data cleaning and data wrangling.
-In the case of having to do it respectively with your own data from before, or using data from a repository which doesn’t conform, or doing some process that outputs the results in a different format, there are ways that you can make the data tidy. Public data
-https://www.tableau.com/learn/articles/what-is-data-cleaning
-There are ways that existing data can be cleaned up. Sometimes called data wrangling.
+While small datasets could be altered manually, large scale datasets will require specialised functions or software to process multiple values. Griffith Library provides a [guide to preparing data](https://www.griffith.edu.au/library/research-publishing/working-with-data/process-and-analyse), which offers an introduction to one of the major tools [OpenRefine](https://openrefine.org/).
