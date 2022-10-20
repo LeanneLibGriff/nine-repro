@@ -25,7 +25,7 @@ Documentation also reduces the risk to a research team from a low **Bus Factor**
 
 The *Bus Factor* is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project and would compromise the entire research process. It is also called the *Lottery Number*, which has a more positive connotation but the threat to the team remains the same.  
 
-Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption, that is considered to be a Bus Factor of 1. The smaller the number, the greater the danger to the project. Ideally, the number of people that would have to be lost for the research project to fail must be as high as possible. 
+Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption, that is considered to be a Bus Factor of 1. The smaller the number, the greater the danger to the project. The number of people that would have to be lost for the research project to fail must be as high as possible. 
 
 As an example, Terry is responsible for the coding for processing and analysing the data for a team project. To the rest of the team, his ability in coding is impressive, and they don't believe they have the skills and aptitude to do this work so they rely upon him to lead in this process. Terry enjoys his work and his status within the group. 
 
@@ -34,11 +34,11 @@ One day, Terry announces that his wife has been offered a lucrative position ove
 Without careful management, a major change to a research team could be more than just disruptive; it has the potential to corrupt the entire project. Comprehensive documentation is the major strategy for minimising the disruption. 
 
 
-### Documentation will also be important for any audits in your lab or if someone would like to reproduce your research.
+Documentation will also be important for any audits in your lab or if someone would is attempting to reproduce your research.
 
 
-## Documentation is a love letter to your future self
-### Damian Conway
+
+> ***Documentation is a love letter to your future self***. Damian Conway
 
 
 ## How?
