@@ -38,7 +38,7 @@ Documentation will also be important for any audits in your lab or if someone wo
 
 
 
-> ***Documentation is a love letter to your future self***. Damian Conway
+> "***Documentation is a love letter to your future self***" Damian Conway
 
 
 ## How?
