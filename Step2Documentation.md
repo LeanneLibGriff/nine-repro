@@ -50,7 +50,7 @@ Once you have the basics in place, go into detail on how your workflow goes from
 ### Advanced
 Read this first: [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*.
 
-Now that you've got a good head start, time to learn about Git Repositories and wikis.![image](https://user-images.githubusercontent.com/103227299/197107647-a8309b77-6920-4dd3-90bc-d8f5a856fe46.png)
+Now that you've got a good head start, time to learn about Git Repositories and wikis.
 
 
 ### Internal Resources
