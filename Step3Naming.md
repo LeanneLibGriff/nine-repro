@@ -6,7 +6,13 @@ nav: true
 ### Step 3
 ## Naming Conventions
 
-Very few people are drawn to research for the administrative tasks but there are many management processes that, if implemented early and consistently, can enable researchers to focus on the real work. Establishing and agreeing (in the case of a research team) on a convention by which all files must be named can greatly help the work of the researcher.
+If implemented early and consistently, a standardised system for naming files can:
+- make file naming easier
+- facilitate access, retrieval and storage of files
+- improve efficience navigating files
+- guard against misplacing or losing files
+- assist with version control
+- identify obsolete or duplicate records
 
 ## What is a File Naming Convention?
 
