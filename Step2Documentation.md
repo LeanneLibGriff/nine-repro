@@ -13,6 +13,8 @@ Throughout your research, you make many choices, from topic to methodology, from
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
 
+> "***Documentation is a love letter to your future self***" Damian Conway
+
 There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
 The choices made at the time may seem obvious, but it may not be so in future. Choices are often limited by methodology or technology but both may undergo changes or digital disruption after the project is over, or even during the project.  
@@ -34,11 +36,6 @@ One day, Terry announces that his wife has been offered a lucrative position ove
 Without careful management, a major change to a research team could be more than just disruptive; it has the potential to corrupt the entire project. Comprehensive documentation is the major strategy for minimising the disruption. 
 
 
-Documentation will also be important for any audits in your lab or if someone would is attempting to reproduce your research.
-
-
-
-> "***Documentation is a love letter to your future self***" Damian Conway
 
 
 ## How?
