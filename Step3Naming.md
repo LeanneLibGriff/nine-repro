@@ -22,16 +22,9 @@ A File Naming Convention (FNC) is a framework or protocol for naming your files 
 ***File names*** are the names that are listed in the file directory and that team members give when saving a new file.
 
 ### What are the benefits of using a file naming convention? 
-Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It could also prevent possible backlogs or project delays.  A file naming convention will ensure files are:
+Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It could also prevent possible backlogs or project delays.  
 
-* Easier to process - All team members won't have to over think the file naming process 
-* Easier to facilitate access, retrieval and storage of files
-* Easier to browse through files saving time and effort 
-* Harder to lose!
-* Having logical and known naming conventions in place can also help you with version control (See step 5 Version Control for more information).
-* Check for obsolete or duplicate records
 
-The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
 ### Coming up with a plan for your team on how to name files.
 Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: *‘During my PhD I was never good at managing my research data. I had so many different file names for my data that I always struggled to find the correct file quickly and easily when it was requested. My former PI was so horrified upon seeing the state of my data organisation that she held an emergency lab book meeting with the rest of my group when l was leaving’*. 
@@ -52,6 +45,8 @@ Which when applied, would look like this below
 20150621_Yaouk_Humidity.CSV
 
 Some characters may have special meaning to the operating system so avoid using these characters when you are naming files. These characters include the following: / \ " ' * ; - ? [ ] ( ) ~ ! $ { } &lt > # @ & | space tab newline https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.osdevice/filename_conv.htm
+
+The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 
 ### Beginner
 Let's look at some easy naming convention for your data files and documents. 
