@@ -13,7 +13,7 @@ Throughout your research, you make many choices, from topic to methodology, from
 
 For your research to be reproducible in the future, even by you, all those choices need to be documented and available. 
 
-> "***Documentation is a love letter to your future self***" Damian Conway
+> "***Documentation is a love letter to your future self***" <br>Damian Conway
 
 There may be more than one valid way to collect and to analyse data but if the same choices are not made later, the result may be different. Methods can vary, equipment may measure and record differently, approaches may have inherent biases for which adjustments need to be made. Each data point needs to be interpreted in the context in which it was collected. 
 
@@ -27,27 +27,31 @@ Documentation also reduces the risk to a research team from a low **Bus Factor**
 
 The *Bus Factor* is the number of people who, if they were suddenly lost to the team (e.g., if they were hit by a bus), would cause a major disruption to the project and would compromise the entire research process. It is also called the *Lottery Number*, which has a more positive connotation but the threat to the team remains the same.  
 
-Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption, that is considered to be a Bus Factor of 1. The smaller the number, the greater the danger to the project. The number of people that would have to be lost for the research project to fail must be as high as possible. 
+Individual circumstances can change suddenly and if it should occur to one member of the team whose loss would cause major disruption, that is considered to be a *Bus Factor* of 1. The smaller the number, the greater the danger to the project. The number of people that would have to be lost for the research project to fail must be as high as possible. 
 
 As an example, Terry is responsible for the coding for processing and analysing the data for a team project. To the rest of the team, his ability in coding is impressive, and they don't believe they have the skills and aptitude to do this work so they rely upon him to lead in this process. Terry enjoys his work and his status within the group. 
 
-One day, Terry announces that his wife has been offered a lucrative position overseas and Terry is resigning. Suddenly, most of the knowledge of Terry’s role will be lost to the team.  
+One day, Terry announces that his wife has been offered a lucrative position overseas and Terry is resigning. Suddenly, most of the knowledge of Terry’s role will be lost to the team.  Without careful management, a major change to a research team could be more than just disruptive; it has the potential to corrupt the entire project. 
 
-Without careful management, a major change to a research team could be more than just disruptive; it has the potential to corrupt the entire project. Comprehensive documentation is the major strategy for minimising the disruption. 
-
-
-
+Comprehensive documentation is the major strategy for minimising the disruption. 
 
 ## How?
 
 ### Beginner 
-* Read this first: [How to start Documenting and more by CESSDA ERIC](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata)<br/><br/>Start with documenting in a text file or document- any start is a good start<br/> Have this document automatically synced to the cloud with your data or keep this in a shared place such as Google docs, Microsoft teams or Owncloud
+Read this first: [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*.
+ 
+Start with documenting in a text file or document- any start is a good startHave this document automatically synced to the cloud with your data or keep this in a shared place such as Microsoft teams/Sharepoint or Research Storage!
 
 ### Intermediate
-* Once you have the basics in place, go into detail on how your workflow goes from your raw data to the finished results. This can be anything from a downloaded function list from SPSS/Virtual Lab to the code used to create it. 
+Read this first: [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*.
+
+Once you have the basics in place, go into detail on how your workflow goes from your raw data to the finished results. This can be anything from a downloaded function list from SPSS/NVIVO to the code used to create it.
 
 ### Advanced
-* Now that you've got a good head start, time to learn about Git Repositories and wikis.  
+Read this first: [How to start Documenting and more](https://www.cessda.eu/Training/Training-Resources/Library/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata) by the *Consortium of European Social Science Data Archives* and the *European Research Infrastructure Consortium*.
+
+Now that you've got a good head start, time to learn about Git Repositories and wikis.![image](https://user-images.githubusercontent.com/103227299/197107647-a8309b77-6920-4dd3-90bc-d8f5a856fe46.png)
+
 
 ### Internal Resources
 * Wiki options at Griffith
