@@ -7,21 +7,22 @@ nav: true
 ### Step 7
 ## Cloud Storage of your Data
 ---
-## Keep a copy of your data on the cloud
+
 ---
-Keeping a copy of all your data (working, raw and completed) in the cloud is incredbilty important. This ensures that if you have a computer failure, accidently delete your data or your data is corrupted, your research is restorable. 
+Cloud storage provides a convenient way to store, back up and retrieve data. 
 ---
 Griffith has three different types of cloud storage made especially for research
 ---
 #### [Research Drive](https://research-storage.griffith.edu.au/drive/)
-
-This would be a good place for your day-to-day working files. It is unlimited and you can share it with people at Griffith (but not externally). This works the same as G drive.
+Research Drive is a good option for your day-to-day working files. It is unlimited and can be shared with your Griffith collaborators (but not externally).
 
 ---
 #### [Research Space](https://research-storage.griffith.edu.au/space/manual/)
 
-This has a ‘sync’ client that automatically copies your files from your computer to the cloud- just like dropbox or google drive. 
-You can use this to share with people external to the university. You can add them with a Linkedin profile, Griffith, other university or Gmail account, or you can share with a URL, password and expiry date. This is also unlimited storage- you are given 5GB initially, and to add an unlimited folder, just click ‘Add more storage’. 
+This option has a 'sync' client that automatically copies your files from your computer to the cloud - similar to DropBox or Google Drive.
+Research Space can be used to share data with collaborators external to the university. Collaborators can be added using a
+Linkedin profile, Griffith, other university or Gmail account, or you can share with a URL, password and expiry date. 
+Research space has unlimited storage. You are initially provided 5GB of space; to add an unlimited fold, just click "Add more storage".
 
 ---
 #### [Research Vault](https://research-storage.griffith.edu.au/vault/)
