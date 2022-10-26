@@ -16,7 +16,7 @@ If implemented early and consistently, a standardised system for naming files ca
 
 ## What is a File Naming Convention?
 
-A File Naming Convention (FNC) is a framework or protocol for naming your files in a system that describes the contents and what files contain and how they relate to other files. Prior to collecting data, it is highly recommended first to establish an agreed FNC.  
+A File Naming Convention (FNC) is a system for naming your all your files with a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data.
 
 ## What is a File Name? 
 ***File names*** are the names that are listed in the file directory and that team members give when saving a new file.
