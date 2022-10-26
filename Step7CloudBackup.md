@@ -42,6 +42,6 @@ Get your data into Research Storage - if you need help selecting the right stora
 
 ### Advanced
 
-Build a policy for your team or group on the storage, back up and retrieval data, iclude both day to day workflows and long term planning. Make sure the location of your data is saved in your documentation. 
+Build a policy for your team or group on the storage, back up and retrieval data, include both day to day workflows and long term planning. Make sure the location of your data is saved in your documentation. 
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step5Version) | [Home](https://guereslib.github.io/Reproducible-Research-Things/)  | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity)
