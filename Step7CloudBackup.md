@@ -11,7 +11,7 @@ nav: true
 
 Cloud storage provides a convenient way to store, back up and retrieve data. Well chosen storage solutions will simplify version control and collaboration with others. It will protect your data against computer failure, hard drive corruption and accidental deletion by making your research data restoreable. 
 
-Data retention can be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
+Choosing the right storage solution will be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
 
 At Griffith, three types of data storage are available to researchers
 
