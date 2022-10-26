@@ -13,6 +13,8 @@ Cloud storage provides a convenient way to store, back up and retrieve data. Wel
 
 Choosing the right storage solution will be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
 
+Major funders of Australian research, the Australian Research Council and the National Health and Medical Research Council have data management requirements as part of their funding agreements.
+
 At Griffith, three types of data storage are available to researchers
 
 #### [Research Drive](https://research-storage.griffith.edu.au/drive/)
@@ -30,7 +32,7 @@ Research space has unlimited storage. Initially, you are provided 5GB of space; 
 #### [Research Vault](https://research-storage.griffith.edu.au/vault/)
 
 For your long term backups. Perfect place to store a safe copy of your raw data or the research of your PhD student who has completed and is leaving the institute.
----
+
 
 #### Not sure which one is best? [Click here](https://research-storage.griffith.edu.au/compare)
 
