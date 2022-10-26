@@ -8,11 +8,11 @@ nav: true
 ## Cloud Storage of your Data
 ---
 
----
+
 Cloud storage provides a convenient way to store, back up and retrieve data. 
 
-Griffith has three different types of cloud storage made especially for research
----
+At Griffith, three types of data storage are available to researchers
+
 #### [Research Drive](https://research-storage.griffith.edu.au/drive/)
 Research Drive is a good option for your day-to-day working files. It is unlimited and can be shared with your Griffith collaborators (but not externally).
 
