@@ -10,7 +10,7 @@ nav: true
 
 ---
 Cloud storage provides a convenient way to store, back up and retrieve data. 
----
+
 Griffith has three different types of cloud storage made especially for research
 ---
 #### [Research Drive](https://research-storage.griffith.edu.au/drive/)
