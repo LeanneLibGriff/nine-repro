@@ -13,7 +13,7 @@ Cloud storage provides a convenient way to store, back up and retrieve data. Wel
 
 Choosing the right storage solution will be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
 
-Major funders of Australian research, the Australian Research Council and the National Health and Medical Research Council have data management requirements as part of their funding agreements.
+Major funders of Australian research, the Australian Research Council (ARC) and the National Health and Medical Research Council (NHMRC) include data management requirements in their funding agreements.
 
 At Griffith, three types of data storage are available to researchers
 
@@ -26,21 +26,21 @@ Research Drive is a good option for your day-to-day working files. It is unlimit
 This option has a 'sync' client that automatically copies your files from your computer to the cloud - similar to DropBox or Google Drive.
 Research Space allows data sharing with collaborators external to Griffith. Collaborators can be added using a
 Linkedin profile, Griffith, other university or Gmail account, or you can share with a URL, password and expiry date. 
-Research space has unlimited storage. Initially, you are provided 5GB of space; to add an unlimited folder click "Add more storage".
+Research space has unlimited storage. Initially, you are provided 5GB of space, to add an unlimited folder click "Add more storage".
 
 ---
 #### [Research Vault](https://research-storage.griffith.edu.au/vault/)
 
-For your long term backups. Perfect place to store a safe copy of your raw data or the research of your PhD student who has completed and is leaving the institute.
+For long term storage and backup of data. The Research Vault is suited to store safe copy of your raw data or the research of your completed PhD student who is leaving the institute.
 
 
-#### Not sure which one is best? [Click here](https://research-storage.griffith.edu.au/compare)
+#### Unure which option is best? [Click here](https://research-storage.griffith.edu.au/compare)
 
 ---
 ### Beginner
 
-Get your data into Research Storage - If you need help picking one, talk to the library or eResearch Support 
----
+Get your data into Research Storage - if you need help selecting the right storage solution for your context, talk to the Library or eResearch Support 
+
 ### Advanced
 
 Build a policy for your team or group on where things are stored. Make sure the location of your data is saved in your documentation 
