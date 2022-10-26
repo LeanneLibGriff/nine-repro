@@ -8,7 +8,6 @@ nav: true
 ## Cloud Storage of your Data
 ---
 
-
 Cloud storage provides a convenient way to store, back up and retrieve data. Well chosen storage solutions will simplify version control and collaboration with others.  It protects research data against computer failure, hard drive corruption and accidental deletion by making research data restoreable. 
 
 Choosing the right storage solution will be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
@@ -43,6 +42,6 @@ Get your data into Research Storage - if you need help selecting the right stora
 
 ### Advanced
 
-Build a policy for your team or group on where things are stored. Make sure the location of your data is saved in your documentation 
+Build a policy for your team or group on the storage, back up and retrieval data, iclude both day to day workflows and long term planning. Make sure the location of your data is saved in your documentation. 
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step5Version) | [Home](https://guereslib.github.io/Reproducible-Research-Things/)  | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity)
