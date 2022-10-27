@@ -11,7 +11,7 @@ At the end of your project, make your research data findable, accessible and re-
 A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
 * assigned by either a publisher, organisation or agency 
 * identifiing content
-* and providing a **persistent** link to its location on the internet. 
+* and providing a **persistent** link to its location or record on the internet. 
 
 It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
 
