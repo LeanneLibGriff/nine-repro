@@ -8,7 +8,12 @@ nav: true
 
 ### Once you've completed your project, help make your research data findable, accessible and possibly re-useable using a PiD such as a DOI
 
-A Digital Object Identifier (DOI) is a unique alphanumeric string assigned by either a publisher, organisation or agency that identifies content and provides a PERSISTENT link to its location on the internet, whether the object is digital or physical. It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
+A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
+* assigned by either a publisher, organisation or agency 
+* identifiing content
+* and providing a **persistent** link to its location on the internet. 
+
+It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
 
 DOIs are also considered a type of *persistent identifiers* (PiDs). An identifier is any label used to name some thing uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers, and personal names. A persistent identifier is guaranteed to be managed and kept up to date over a defined time period. 
 
