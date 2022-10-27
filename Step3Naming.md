@@ -16,15 +16,13 @@ If implemented early and consistently, a standardised system for naming files ca
 
 ## What is a File Naming Convention?
 
-A File Naming Convention (FNC) is a system for naming your all your files with a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data.
+A File Naming Convention (FNC) is a system for naming your all your files to include a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data.
 
 ## What is a File Name? 
-***File names*** are the names that are listed in the file directory and that team members give when saving a new file.
+***File names*** are simply those names that you must give when saving to any new file, and which are listed in the directory of a folder. The FNC is used at that stage with each file that forms any part of your research.
 
 ### What are the benefits of using a file naming convention? 
-Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It could also prevent possible backlogs or project delays.  
-
-
+Naming files consistently, logically and in a predictable manner will prevent against unorganised files, misplaced or lost data.  It can also prevent backlogs or project delays by presenting a clear and real-time display of the current or completed work.
 
 ### Coming up with a plan for your team on how to name files.
 Former PhD student and subsequent founder of the Figshare platform, Mark Hahnel, typified a common challenge: *‘During my PhD I was never good at managing my research data. I had so many different file names for my data that I always struggled to find the correct file quickly and easily when it was requested. My former PI was so horrified upon seeing the state of my data organisation that she held an emergency lab book meeting with the rest of my group when l was leaving’*. 
@@ -37,7 +35,7 @@ Your research team should agree on the following elements of a file name prior t
 * Order - confirm which element should go first, so that files on the same theme are listed together and can therefore be found easily
 * Numbers - specify the amount of digits that will be used in numbering so that files are listed numerically e.g. 01, 002, etc.
 
-As previously suggested, consistent and meaningful naming of files and folders can make everyone’s life easier.  See this example below:
+As previously suggested, consistent and meaningful naming of files and folders can improve efficiency.  See this example below:
 
 YYYYMMDD_SiteA_SensorB.CSV
 Date  Location   Sensor
@@ -49,15 +47,15 @@ Some characters may have special meaning to the operating system so avoid using 
 The University of Edinburgh has a comprehensive and easy to follow list (with examples and explanations) of [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 
 ### Beginner
-Let's look at some easy naming convention for your data files and documents. 
-Any dates are best stored with YYYY-MM-DD. 
-Try to avoid spaces in your file names 
+Consider some easy naming convention for your data files and documents. 
+Any dates are best stored with YYYY-MM-DD because it can be re-ordered chronologically.
+Avoid spaces in your file names because some applications do not support it.
 
 ### Intermediate
 Make sure you follow 13 Rules for file naming conventions  https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions
 
 ### Advanced
-Do you have a policy in your team around naming conventions? If not, this is a great way of getting everyone on the same page 
+Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.
 
 
 ### Internal Resources
