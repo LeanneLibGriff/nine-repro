@@ -6,7 +6,7 @@ nav: true
 ### Step 8
 ## Computer Security
 
-## Ensuring that your computer and network are secured means that there is far less risk of a data breach or hack. 
+## Secure your computer and network reduces the risk of a data breach, theft or hack 
 
 
 Beginner
