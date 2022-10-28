@@ -8,6 +8,8 @@ nav: true
 
 ## Secure your computer to reduce the risk of a data breach, theft or hack.
 
+The parts
+- 
 
 Beginner
 * Have good strong passwords and encrypt your computer's hard drive.
