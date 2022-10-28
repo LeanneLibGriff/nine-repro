@@ -6,7 +6,7 @@ nav: true
 ### Step 8
 ## Computer Security
 
-## Securing your computer reduces the risk of a data breach, theft or hack 
+## Secure your computer to reduce the risk of a data breach, theft or hack.
 
 
 Beginner
