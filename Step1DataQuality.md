@@ -44,3 +44,13 @@ The terms "data cleaning" and "data wrangling" are often used interchangably but
 - Data cleaning: removing or correcting data 
 
 While small datasets could be altered manually, large scale datasets will require specialised functions or software to process multiple values. Griffith Library provides a [guide to preparing data](https://www.griffith.edu.au/library/research-publishing/working-with-data/process-and-analyse), which offers an introduction to [OpenRefine](https://openrefine.org/), one of the major tools.
+
+
+Beginner
+Format columns of rows
+
+
+
+Advanced.
+Save spreadsheet as CSV
+
