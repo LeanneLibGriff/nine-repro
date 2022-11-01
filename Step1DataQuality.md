@@ -49,8 +49,9 @@ While small datasets could be altered manually, large scale datasets will requir
 Beginner
 Format columns of rows
 
+Intermediate
 
 
 Advanced.
-Save spreadsheet as CSV
+Save an Excel spreadsheet as CSV and reopen in Excel to test 
 
