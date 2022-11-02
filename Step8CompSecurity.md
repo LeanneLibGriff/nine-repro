@@ -13,6 +13,7 @@ Incorporate the following practices into your everyday routine as well as team p
 ### Beginner
 1. Use strong passwords
 2. Encrpyt your computer's hard drive.
+3. Avoid unsecure wifi. If it's available, Eduroam is a better option than free wifi/cafe wifi
 
 #### How to create strong passwords
  * Make your password unique for each of your important accounts.
@@ -20,6 +21,7 @@ Incorporate the following practices into your everyday routine as well as team p
  * Use a combination of letters, lowercase letters and symbols.
  * Enable multifactor authentication (MFA) whenever available. 
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
+ * Find out if your email has been compromised [here](https://haveibeenpwned.com/)
 
 #### Encrypt your hard drive
 * Hard drive encryption convert a physical disk into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt the drive. This prevents unauthorized people or hackers from accessing the information.
@@ -29,16 +31,16 @@ Incorporate the following practices into your everyday routine as well as team p
 * [Mac OS](https://support.apple.com/en-au/HT204837)
 
 ### Intermediate
-1. Use a password manager.
+1. Use a password manager
+2. Enable multifactor authentication (MFA)
 
 ### Advanced
-* Let's ensure your lab/office is encrypted and practicing safe habits
-Note:
-The boss's computer is usually the most insecure
+2. Is your lab/office encrypted?
+Note: The boss's computer is usually the most insecure
 
 
 
-### Strong passwords
+### Str
 * https://www.griffith.edu.au/passwords/password-management
 * Video: https://youtu.be/PjHc8g8G9MU
 * Find out if your email has been compromised https://haveibeenpwned.com/
@@ -46,7 +48,6 @@ The boss's computer is usually the most insecure
 
 Using Multi-Factor Authentication when the option is available (Signing in with a password and an email to your account with a pin)
 
-Avoid unsecure wifi - If it's available, Eduroam is usually a better option than free wifi/cafe wifi
 
 
 Use a VPN whenever you’re not at work
