@@ -30,10 +30,10 @@ Journal publishers assign DOIs to electronic copies of individual articles. DOIs
 Ensure data you associate with a publication has a DOI - Library staff are the best group to talk to for this. 
 
 ## Intermediate
-* Learn more about how your DOI can potentially increase your citation rates 
-Video: Persistant identifiers and data citation explained 
+* Learn more about how your DOI can potentially increase your citation rates. Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness) and watch the video below.
+### Video: Persistant identifiers and data citation explained 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness)
+
 
 ## Advanced
 * Learn more about PiDs and DOIs https://www.ands.org.au/guides/persistent-identifiers-awareness|
