@@ -23,7 +23,7 @@ Incorporate the following practices into your everyday routine as well as team p
 
 #### Encrypt your hard drive
 * Hard drive encryption convert a physical disk into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt the drive. This prevents unauthorized people or hackers from accessing the information.
-* Encryption- https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection
+* Encryption https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection
 * Win 10 Encryption: https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10
 * Win 7 Encryption: https://www.microsoft.com/en-au/download/details.aspx?id=4794 (Call 55555 first and ask their advice as they can help you install this- it doesn't look as simple as Win 10)
 * Mac OS https://support.apple.com/en-au/HT204837
