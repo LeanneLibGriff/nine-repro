@@ -6,11 +6,15 @@ nav: true
 ### Step 8
 ## Computer Security
 
-Computer security is the protection of computing systems and the data that they store or access. Secure your computer and your network to reduce the risk of a data breach, theft or hack. 
+Computer security is the protection of computing systems and the data that they store or access. Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse.
 
+Incorporate the following practices into your everyday routine as well as team policy. Encorage others to do so as well.
 
 Beginner
-* Have good strong passwords and encrypt your computer's hard drive.
+* Use strong passwords
+* Encrpyt your computer's hard drive.
+
+
 
 Intermediate
 * Use a password manager.
