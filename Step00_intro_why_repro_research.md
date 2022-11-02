@@ -19,7 +19,7 @@ Reproducible research has most of the advantages of replicating studies without 
 ___
 
 
-**Benefits of reproducible research**
+#### Benefits of reproducible research**
 
 - Easier recall and explanation of work to collaborators, supervisors and reviewers
 - Ability to quickly modify analyses and figures
