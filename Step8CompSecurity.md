@@ -42,8 +42,8 @@ Note: The boss's computer is usually the most insecur
 * https://intranet.secure.griffith.edu.au/computing/remote-access/accessing-resources/virtual-private-network (55 555 can help you out too)
 
 3. Keeping your OS and products up to date (esp web browser)
-* You can use Qualsys Browser Check to confirm your browser is set securely
-* https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home
+* You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
+* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) information
 
 4. Griffith provides Symantec anti-virus FREE for Griffith staff and students https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4
  
