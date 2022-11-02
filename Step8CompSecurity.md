@@ -25,7 +25,7 @@ Incorporate the following practices into your everyday routine as well as team p
 
 
 ### Intermediate
-* Use a password manager.
+1. Use a password manager.
 
 ### Advanced
 * Let's ensure your lab/office is encrypted and practicing safe habits
