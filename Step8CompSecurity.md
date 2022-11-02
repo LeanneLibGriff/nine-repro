@@ -31,7 +31,7 @@ Incorporate the following practices into your everyday routine as well as team p
 * [Mac OS](https://support.apple.com/en-au/HT204837)
 
 ### Intermediate
-1. Use a password manager
+1. Use a [password manager](https://www.griffith.edu.au/passwords/lastpass)
 2. Enable multifactor authentication (MFA)
 
 ### Advanced
