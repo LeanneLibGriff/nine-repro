@@ -41,7 +41,7 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 * Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
 
 ## Internal Resources
-* Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au)for advice on how to obtain a DOI upon project completion.
+* Contact the Library Technology Services Team at [digitalrepository@griffith.edu.au](digitalrepository@griffith.edu.au) for advice on how to obtain a DOI upon project completion.
 
 ## External Resources
 * ANDS/ARDC - [Citation and Identifiers](https://www.ands.org.au/working-with-data/citation-and-identifiers)
