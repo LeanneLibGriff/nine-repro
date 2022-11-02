@@ -36,16 +36,15 @@ Incorporate the following practices into your everyday routine as well as team p
 
 ### Advanced
 1. Is your lab/office encrypted?
-Note: The boss's computer is usually the most insecur
+Note: The boss's computer is usually the most insecure
 
 2. Use a VPN whenever you’re not at work
-* https://intranet.secure.griffith.edu.au/computing/remote-access/accessing-resources/virtual-private-network (55 555 can help you out too)
 
-3. Keeping your OS and products up to date (esp web browser)
+3. Keeping your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
-* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) information
+* Look at Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information
 
-4. Griffith provides Symantec anti-virus FREE for Griffith staff and students https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4
+4. Griffith provides [Symantec anti-virus](https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4) FREE for Griffith staff and students
  
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId)
