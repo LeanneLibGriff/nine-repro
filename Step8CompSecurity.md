@@ -19,13 +19,15 @@ Incorporate the following practices into your everyday routine as well as team p
  * Make your password longer - at least 12 characters long. 14 or more charaters is stronger.
  * Use a combination of letters, lowercase letters and symbols.
  * Enable multifactor authentication (MFA) whenever available. 
- * Use a password management tool if you have trouble remembering mutiple passwords.
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
 
-Intermediate
+#### Encrypt your hard drive
+
+
+### Intermediate
 * Use a password manager.
 
-Advanced
+### Advanced
 * Let's ensure your lab/office is encrypted and practicing safe habits
 Note:
 The boss's computer is usually the most insecure
