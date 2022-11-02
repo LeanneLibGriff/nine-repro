@@ -16,13 +16,17 @@ Incorporate the following practices into your everyday routine as well as team p
 
 #### How to create strong passwords
  * Make your password unique for each of your important accounts.
- * Make your password longer - at least 12 characters long. 14 or more charaters is stronger.
+ * Make your password longer - at least 12 characters long. 14 or more characters is stronger.
  * Use a combination of letters, lowercase letters and symbols.
  * Enable multifactor authentication (MFA) whenever available. 
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
 
 #### Encrypt your hard drive
-
+* Hard drive encryption convert a physical disk into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt the drive. This prevents unauthorized people or hackers from accessing the information.
+* Encryption- https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection
+* Win 10 Encryption: https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10
+* Win 7 Encryption: https://www.microsoft.com/en-au/download/details.aspx?id=4794 (Call 55555 first and ask their advice as they can help you install this- it doesn't look as simple as Win 10)
+* Mac OS https://support.apple.com/en-au/HT204837
 
 ### Intermediate
 1. Use a password manager.
@@ -32,11 +36,7 @@ Incorporate the following practices into your everyday routine as well as team p
 Note:
 The boss's computer is usually the most insecure
 
-### Encrypt your computer
-* Encryption- https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection
-* Win 10 Encryption: https://www.windowscentral.com/how-use-bitlocker-encryption-windows-10
-* Win 7 Encryption: https://www.microsoft.com/en-au/download/details.aspx?id=4794 (Call 55555 first and ask their advice as they can help you install this- it doesn't look as simple as Win 10)
-* Mac OS https://support.apple.com/en-au/HT204837
+
 
 ### Strong passwords
 * https://www.griffith.edu.au/passwords/password-management
