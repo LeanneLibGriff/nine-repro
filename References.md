@@ -12,5 +12,8 @@
  
  Arguillas, F., Christian, T, Gooch, M., Honeyman, T., Peer, L., CURE-FAIR WG.(2022). 10 Things for Curating Reproducible and FAIR Research: RDA Recommendation. Research Data Alliance https://doi.org/10.15497/RDA00074
  
+### Step 8 Computer Security
  
+Google Create a strong passsword and more secure account https://support.google.com/accounts/answer/32040?hl=en
 
+Microsoft Support Create and use strong passwords https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb
