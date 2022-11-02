@@ -11,8 +11,8 @@ nav: true
 
 ### Beginner
 1. Use strong passwords
-2. Encrpyt your computer's hard drive.
-3. Avoid unsecure wifi. If it's available, Eduroam is a better option than free wifi/cafe wifi
+2. Encrpyt your computer's hard drive
+3. Avoid unsecure wifi. If it's available. Eduroam is a better option than free wifi/cafe wifi
 
 #### How to create strong passwords
  * Make your password unique for each of your important accounts.
@@ -20,7 +20,7 @@ nav: true
  * Use a combination of letters, lowercase letters and symbols.
  * Enable multifactor authentication (MFA) whenever available. 
  * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
- * Find out if your email has been compromised [here](https://haveibeenpwned.com/)
+ * Find out if your email address has been compromised [here](https://haveibeenpwned.com/)
 
 #### Encrypt your hard drive
 * Hard drive encryption converts a physical drive into an unreadable format that cannot be unlocked without the secret key or password that was used to encrypt it. Encryption prevents unauthorized people or hackers from accessing the information on the hard drive.
