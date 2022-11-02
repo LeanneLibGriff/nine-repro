@@ -35,29 +35,17 @@ Incorporate the following practices into your everyday routine as well as team p
 2. Enable multifactor authentication (MFA)
 
 ### Advanced
-2. Is your lab/office encrypted?
-Note: The boss's computer is usually the most insecure
+1. Is your lab/office encrypted?
+Note: The boss's computer is usually the most insecur
 
-
-
-### Str
-* https://www.griffith.edu.au/passwords/password-management
-* Video: https://youtu.be/PjHc8g8G9MU
-* Find out if your email has been compromised https://haveibeenpwned.com/
-* Use a password manager such as https://www.lastpass.com/business-password-manager
-
-Using Multi-Factor Authentication when the option is available (Signing in with a password and an email to your account with a pin)
-
-
-
-Use a VPN whenever you’re not at work
+2. Use a VPN whenever you’re not at work
 * https://intranet.secure.griffith.edu.au/computing/remote-access/accessing-resources/virtual-private-network (55 555 can help you out too)
 
-Keeping your OS and products up to date (esp web browser)
+3. Keeping your OS and products up to date (esp web browser)
 * You can use Qualsys Browser Check to confirm your browser is set securely
 * https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home
 
-Griffith provides Symantec anti-virus FREE for Griffith staff and students https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4
+4. Griffith provides Symantec anti-virus FREE for Griffith staff and students https://intranet.secure.griffith.edu.au/computing/software/self-help-and-support/software-download-service4
  
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId)
