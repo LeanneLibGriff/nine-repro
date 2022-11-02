@@ -15,9 +15,12 @@ Incorporate the following practices into your everyday routine as well as team p
 * Encrpyt your computer's hard drive.
 
 _How to create strong passwords
- * Make your password unique for each of your important accounts
- * Make your password longer - at least 12 characters long, 14 or more characters is better.
+ * Make your password unique for each of your important accounts.
+ * Make your password longer - at least 12 characters long. 14 or more charaters is stronger.
  * Use a combination of letters, lowercase letters and symbols.
+ * Enable multifactor authentication (MFA) whenever available. 
+ * Use a password management tool if you have trouble remembering mutiple passwords.
+ * Donit incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
 
 Intermediate
 * Use a password manager.
