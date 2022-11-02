@@ -10,11 +10,14 @@ Computer security is the protection of computing systems and the data that they 
 
 Incorporate the following practices into your everyday routine as well as team policy. Encorage others to do so as well.
 
-Beginner
+**Beginner
 * Use strong passwords
 * Encrpyt your computer's hard drive.
 
-
+_How to create strong passwords
+ * Make your password unique for each of your important accounts
+ * Make your password longer - at least 12 characters long, 14 or more characters is better.
+ * Use a combination of letters, lowercase letters and symbols.
 
 Intermediate
 * Use a password manager.
