@@ -6,10 +6,8 @@ nav: true
 ### Step 8
 ## Computer Security
 
-## Secure your computer and your netword to reduce the risk of a data breach, theft or hack.
+Computer security is the protection of computing systems and the data that they store or access. Secure your computer and your network to reduce the risk of a data breach, theft or hack. 
 
-
-- 
 
 Beginner
 * Have good strong passwords and encrypt your computer's hard drive.
