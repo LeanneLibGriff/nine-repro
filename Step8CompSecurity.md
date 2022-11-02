@@ -9,7 +9,7 @@ nav: true
 
 ### Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse.
 
-Incorporate the following practices into your everyday routine as well as team policy. Encourage others to do so as well.
+Incorporate the following practices into your everyday routine as well as policy. Encourage others to do so as well.
 
 ### Beginner
 1. Use strong passwords
