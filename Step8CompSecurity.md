@@ -15,11 +15,11 @@ nav: true
 3. Avoid unsecure wifi. If it's available. Eduroam is a better option than free wifi/cafe wifi
 
 #### How to create strong passwords
- * Make your password unique for each of your important accounts.
- * Make your password longer - at least 12 characters long. 14 or more characters is stronger.
- * Use a combination of letters, lowercase letters and symbols.
- * Enable multifactor authentication (MFA) whenever available. 
- * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address.
+ * Make your password unique for each of your important accounts
+ * Make your password longer - at least 12 characters long. 14 or more characters is stronger
+ * Use a combination of letters, lowercase letters and symbols
+ * Enable multifactor authentication (MFA) whenever available
+ * Do not incorporate personal information into your password. For example, the name of a child, pet, important birthdays, details from your address
  * Find out if your email address has been compromised [here](https://haveibeenpwned.com/)
 
 #### Encrypt your hard drive
