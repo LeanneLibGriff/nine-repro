@@ -46,12 +46,9 @@ The terms "data cleaning" and "data wrangling" are often used interchangably but
 While small datasets could be altered manually, large scale datasets will require specialised functions or software to process multiple values. Griffith Library provides a [guide to preparing data](https://www.griffith.edu.au/library/research-publishing/working-with-data/process-and-analyse), which offers an introduction to [OpenRefine](https://openrefine.org/), one of the major tools.
 
 
-Beginner
-Format columns of rows
+ 
 
-Intermediate
+Intermediate is formulating the cells in a column to record the date in the YYY-MM-DD format.  
 
-
-Advanced.
-Save an Excel spreadsheet as CSV and reopen in Excel to test 
+The advanced option could the conversion to csv and reopen in Excel to see if it survives. 
 
