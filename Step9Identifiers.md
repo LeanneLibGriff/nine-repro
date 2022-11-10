@@ -19,7 +19,7 @@ An identifier is any label used to name some thing uniquely (whether digital or 
 Management NOT guaranteed:
 
 * links disappear
-* website shut down
+* websites shut down
 * product support ends
 
 ##### Persistant Identifiers
