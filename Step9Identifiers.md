@@ -47,7 +47,7 @@ The second example of a DOI or *Persistent Identifier* is from [Griffiths' Resea
 
 Journal publishers assign DOIs to electronic copies of individual articles. DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies. 
 
-### DOIs uniquely identify research data collection and support citation and citation metrics.
+#### DOIs uniquely identify research data collection and support citation and citation metrics.
 
 ## Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
