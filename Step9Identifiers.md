@@ -52,7 +52,6 @@ Journal publishers assign DOIs to electronic copies of individual articles. DOIs
 ## Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
-
 * DOIs enable accurate data citation and bibliometrics (both metrics and altmetrics)
 * Resolvable DOIs provide easy online access to research data for discovery, attribution and reuse
 
