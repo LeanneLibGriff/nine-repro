@@ -30,9 +30,9 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 
 Here are examples of practical guidelines available nationally 
 
-* The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a *‘De-identification Decision Making Framework’,* which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
-* The OAIC also provides high-level guidance on de-identification of data and information, outlining what de-identification is, and how it can be achieved. https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act
-* The Australian Government’s guidelines for the disclosure of health information, includes techniques for making a data set non-identifiable and example case studies. https://www.aihw.gov.au/reports-data
+* The Australian Government’s Office of the Australian Information Commissioner (OAIC) and CSIRO Data61 have released a *[‘De-identification Decision Making Framework’],*(https://www.oaic.gov.au/privacy/guidance-and-advice/de-identification-decision-making-framework) which is a “practical guide to de-identification, focussing on operational advice”.  The guide will assist organisations that handle personal information to de-identify their data effectively. 
+* The [OAIC](https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act) also provides high-level guidance on de-identification of data and information, outlining what de-identification is, and how it can be achieved. 
+* [The Australian Government’s guidelines for the disclosure of health information](https://www.aihw.gov.au/reports-data), includes techniques for making a data set non-identifiable and example case studies. 
 * Australian Bureau of Statistics’ National Statistical Service Handbook. Chapter 11 contains a summary of methods to maintain privacy. 
 * med.data.edu.au gives information about anonymisation https://www.aihw.gov.au/reports-data
 * Office of the Information Commissioner Queensland’s guidance on de-identification techniques https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/applying-the-privacy-principles/privacy-and-de-identification
