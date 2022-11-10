@@ -45,8 +45,6 @@ Like this: [https://research-repository.griffith.edu.au/handle/10072/394379](htt
 
 The second example of a DOI or *Persistent Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
 
-Journal publishers assign DOIs to electronic copies of individual articles. DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies. 
-
 #### DOIs uniquely identify research data collection and support citation and citation metrics.
 
 ## Key messages:
