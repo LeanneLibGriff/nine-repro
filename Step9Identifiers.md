@@ -35,7 +35,8 @@ Management guaranteed:
 
 * assigned by either a publisher, organisation or agency 
 * identifiing content
-* providing a **persistent** link to its location or record on the internet. 
+* providing a **persistent** link to its location or record on the internet
+* facilitate citation and citation metrics 
 
 A DOI might look something like this: [http://dx.doi.org/10.4225/01/4F8E15A1B4D89](http://dx.doi.org/10.4225/01/4F8E15A1B4D89)
 
