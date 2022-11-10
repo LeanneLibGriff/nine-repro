@@ -66,7 +66,6 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 ### Video: Persistant identifiers and data citation explained 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Advanced
 * Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
 
@@ -76,6 +75,5 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 ## External Resources
 * ANDS/ARDC - [Citation and Identifiers](https://www.ands.org.au/working-with-data/citation-and-identifiers)
 * [DOI system for research data](https://www.ands.org.au/guides/doi)
-
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) 
