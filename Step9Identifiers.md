@@ -47,6 +47,9 @@ The second example of a DOI or *Persistent Identifier* is from [Griffiths' Resea
 
 #### DOIs uniquely identify research data collection and support citation and citation metrics.
 
+### Video: Persistant identifiers and data citation explained 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Key messages:
 * DOIs are a persistent identifier and as such carry expectations of curation, persistent access and rich metadata
 * DOIs can be created for DATA SETS and associated outputs (eg grey literature, workflows, algorithms, software etc) - DOIs for data are equivalent with DOIs for other scholarly publications
@@ -59,9 +62,6 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 ## Intermediate
 * Learn more about how your DOI can potentially increase your citation rates. 
 * Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness) and watch the video below.
-
-### Video: Persistant identifiers and data citation explained 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Advanced
 * Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
