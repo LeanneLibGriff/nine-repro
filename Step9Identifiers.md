@@ -37,15 +37,13 @@ Management guaranteed:
 * identifiing content
 * providing a **persistent** link to its location or record on the internet. 
 
-A DOI might look something like this: http://dx.doi.org/10.4225/01/4F8E15A1B4D89 
+A DOI might look something like this: [http://dx.doi.org/10.4225/01/4F8E15A1B4D89](http://dx.doi.org/10.4225/01/4F8E15A1B4D89)
 
 OR
 
-Like this: https://research-repository.griffith.edu.au/handle/10072/394379
+Like this: [https://research-repository.griffith.edu.au/handle/10072/394379](https://research-repository.griffith.edu.au/handle/10072/394379)
 
 The second example of a DOI or *Persistent Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
-
-DOIs are a type of *persistent identifier* (PiD).  A persistent identifier is guaranteed to be managed and kept up to date over a defined time period. 
 
 Journal publishers assign DOIs to electronic copies of individual articles. DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies. 
 
