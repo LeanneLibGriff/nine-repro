@@ -6,16 +6,43 @@ nav: true
  Step 10
 # Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
-### At the end of your project, make your research data findable, accessible and re-useable using a PiD such as a DOI.
+### At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
 
-A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
+#### Identifiers vs Persistant Identifiers
+
+##### Identifiers
+
+Examples: Serial numbers, URLs
+
+Management NOT guaranteed:
+
+* links disappear
+* website shut down
+* product support ends
+
+##### Persistant Identifiers
+Examples: [ORCID](https://orcid.org/), [Digital Object Identifier](https://www.doi.org/)
+
+Management guaranteed over time:
+
+* links will find the object, even when websites change over time.
+
+
+##### A Digital Object Identifier (DOI) is a unique alphanumeric string that is:
+
 * assigned by either a publisher, organisation or agency 
 * identifiing content
-* and providing a **persistent** link to its location or record on the internet. 
+* providing a **persistent** link to its location or record on the internet. 
 
-It might look something like this http://dx.doi.org/10.4225/01/4F8E15A1B4D89. The DOI or the *Identifier* is listed at the bottom of this record from Griffiths' Research Data Repository.
+A DOI might look something like this: http://dx.doi.org/10.4225/01/4F8E15A1B4D89 
 
-DOIs are also considered a type of *persistent identifiers* (PiDs). An identifier is any label used to name some thing uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers, and personal names. A persistent identifier is guaranteed to be managed and kept up to date over a defined time period. 
+OR
+
+Like this: https://research-repository.griffith.edu.au/handle/10072/394379
+
+The second example of a DOI or *Identifier* is from [Griffiths' Research Data Repository](https://research-repository.griffith.edu.au/).
+
+DOIs a type of *persistent identifiers* (PiDs). An identifier is any label used to name some thing uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers, and personal names. A persistent identifier is guaranteed to be managed and kept up to date over a defined time period. 
 
 Journal publishers assign DOIs to electronic copies of individual articles. DOIs can also be assigned by an organisation, research institutes or agencies and are generally managed by the relevant organisation and relevant policies. DOIs not only uniquely identify research data collections, it also supports citation and citation metrics.
 
