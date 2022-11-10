@@ -8,7 +8,7 @@ nav: true
 ## Cloud Storage of your Data
 ---
 
-Cloud storage provides a convenient way to store, back up and retrieve data. Well chosen storage solutions will simplify version control and collaboration with others.  It protects research data against computer failure, hard drive corruption and accidental deletion by making research data restoreable. 
+#### Cloud storage provides a convenient way to store, back up and retrieve data. Well chosen storage solutions will simplify version control and collaboration with others.  It protects research data against computer failure, hard drive corruption and accidental deletion by making research data restoreable. 
 
 Choosing the right storage solution will be determined by a number of factors. Some things to consider include contractual requirements of funding bodies, legal requirements to retain or discard data, as well as best practices in your field.
 
