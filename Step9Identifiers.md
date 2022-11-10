@@ -6,9 +6,9 @@ nav: true
  Step 10
 # Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
-### At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
+#### At the end of your project, make your research data findable, accessible and re-useable using a Persistant Identifier (PiD) such as a DOI.
 
-#### Identifiers vs Persistant Identifiers
+### Identifiers vs Persistant Identifiers
 
 ##### Identifiers
 
