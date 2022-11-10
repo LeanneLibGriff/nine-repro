@@ -1,9 +1,9 @@
 ---
-title: Step 9 - Object Identifiers
+title: Step 10 - Publish with persistent identifiers
 nav: true
 ---
 
- Step 9
+ Step 10
 # Digital Object Identifiers (DOI) and Persistent Identifiers (PiD)  
 
 ### At the end of your project, make your research data findable, accessible and re-useable using a PiD such as a DOI.
