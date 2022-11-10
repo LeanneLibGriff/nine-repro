@@ -62,7 +62,7 @@ Ensure data you associate with a publication has a DOI. Library staff are the be
 
 ## Intermediate
 * Learn more about how your DOI can potentially increase your citation rates. 
-* Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness) and watch the video below.
+* Read the [ANDS Data Citation Guide](https://www.ands.org.au/guides/data-citation-awareness).
 
 ## Advanced
 * Learn more about [PiDs and DOIs](https://www.ands.org.au/guides/persistent-identifiers-awarenes)
