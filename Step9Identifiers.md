@@ -14,7 +14,7 @@ nav: true
 
 Examples: Serial numbers, URLs. 
 
-An identifier is any label used to name some thing uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers, and personal names
+An identifier is any label used to name an item uniquely (whether digital or physical).  URLs are an example of an identifier. So are serial numbers and personal names
 
 Management NOT guaranteed:
 
