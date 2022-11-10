@@ -48,7 +48,7 @@ The second example of a DOI or *Persistent Identifier* is from [Griffiths' Resea
 
 #### DOIs uniquely identify research data collection and support citation and citation metrics.
 
-### Video: Persistant identifiers and data citation explained 
+### Video: Persistant identifiers and data citation explained (4:52) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgqtiY7oZ6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Key messages:
