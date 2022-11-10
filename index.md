@@ -13,8 +13,8 @@ Ten steps to working more openly
 - [Step 6  -    Version control](Step6Version.md)
 - [Step 7  -    Backing up to the cloud](Step7CloudBackup.md)
 - [Step 8  -    Computer security](Step8CompSecurity.md)
-- [Step 9  -    De-identify data](Step9Identifiers.md)
-- [Step 10 -    Publish with persistent identifiers](StepTenSepId.md)
+- [Step 9  -    De-identify sensitive data](StepTenSepId.md)
+- [Step 10 -    Publish with persistent identifiers](Step9Identifiers.md)
 
 [References](References.md)
 
