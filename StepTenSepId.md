@@ -13,13 +13,13 @@ Categories of sensitive data include:
 * personal data
 * health and medical data 
 * ecological data that may place vulnerable species at risk
-* culturally sensitive data. For example archaeological findings at risk or vandalism or looting.
+* culturally sensitive data
 
 Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the [Australian Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
 
 De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in  the [Commonwealth Privacy Act](https://www.legislation.gov.au/Details/C2016C00979)
 
-*De-identifiying* aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data or the location of endangered species.  
+*De-identifiying* aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data (for example archaelogical sites at risk of vandalism or looting) or the location of endangered species.  
 
 Any identifiers (name, date of birth, address or geospatial locations etc) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
 
