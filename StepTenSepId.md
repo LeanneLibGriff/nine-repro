@@ -53,11 +53,7 @@ Data may often need to be identifiable during the process of research. If data i
 * Taking reasonable actions to prevent the inadvertent disclosure, release or loss of sensitive personal information.
 
 ## Safely sharing sensitive data guide (ARDC)
-* ANDS' De-identification Guide collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
-
-Attributon: 
-* Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
-* Australian National Data Service. (2018). Safely sharing sensitive data. (2018). Retrived from https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data 
+* The ARDC's [Idenditifiable Data](https://ardc.edu.au/resource/identifiable-data/) Collates a selection of Australian and international practical guidelines and resources on how to de-identify datasets.  
 
 
 [Previous](https://guereslib.github.io/Reproducible-Research-Things/Step7CompSecurity) | [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step9Identifiers)
