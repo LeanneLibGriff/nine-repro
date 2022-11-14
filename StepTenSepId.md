@@ -25,6 +25,9 @@ Any identifiers (name, date of birth, address or geospatial locations etc) shoul
 
 *Re-identifing* an individual is possible by recombining the de-identifiable data set and the identifiers.  
 
+### Video Five Safes: Working with sensitive data (UK Data Service)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Australian practical guidance for de-identification (ARDC)
 *Australian Research Data Commons (ARDC)* formerly known as Australian National Data Service (ANDS) has an excellent guide on De-identification.  The [De-identification Guide](https://www.ands.org.au/working-with-data/sensitive-data/de-identifying-data) is intended for researchers who *own* a data set and wish to share safely with fellow researchers or for publishing of data.
 
