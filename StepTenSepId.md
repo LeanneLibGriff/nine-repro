@@ -6,7 +6,7 @@ nav: true
 ### Step 9
 ## De-identify sensitive data
 
-### Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
+#### Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
 
 Categories of sensitive data include:
 
