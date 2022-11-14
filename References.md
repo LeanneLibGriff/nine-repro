@@ -17,3 +17,9 @@
 Google Create a strong passsword and more secure account https://support.google.com/accounts/answer/32040?hl=en
 
 Microsoft Support Create and use strong passwords https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb
+
+### Step 9 De-identify data
+
+ Australian National Data Service. (2018). ANDS guide: De-identification.  Retrieved from https://www.ands.org.au/__data/assets/pdf_file/0003/737211/De-identification.pdf
+ 
+ Australian National Data Service. (2018). Safely sharing sensitive data. (2018). Retrived from https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data 
