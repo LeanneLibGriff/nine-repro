@@ -45,7 +45,7 @@ Here are examples of practical guidelines available nationally
 
 ## Management of identifiable data (ARDC)
 
-Data may often need to be identifiable (i.e. contains personal information) during the process of research, e.g. for analysis. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
+Data may often need to be identifiable during the process of research. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
 
 * Control of access through physical or digital means (e.g. passwords)
 * Encryption of data, particularly if it is being moved between locations
