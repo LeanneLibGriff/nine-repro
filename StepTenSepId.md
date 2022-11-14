@@ -37,7 +37,7 @@ Here are examples of practical guidelines available nationally
 * The [OAIC](https://www.oaic.gov.au/agencies-and-organisations/guides/de-identification-and-the-privacy-act) also provides high-level guidance on de-identification of data and information, outlining what de-identification is, and how it can be achieved. 
 * [The Australian Government’s guide to health privacy](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-health-privacy), includes techniques for making a data set non-identifiable and example case studies. 
 * Office of the Information Commissioner Queensland guidance on [Privacy and De-identified data](https://www.oic.qld.gov.au/guidelines/for-government/guidelines-privacy-principles/anonymity/privacy-and-de-identification)
-*  
+
 ## Tips for managing de-identification (ARDC)
 
 * Plan de-identification early in the research as part of your data management planning
