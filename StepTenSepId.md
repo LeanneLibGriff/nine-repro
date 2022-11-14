@@ -15,7 +15,7 @@ Categories of sensitive data include:
 * ecological data that may place vulnerable species at risk
 * culturally sensitive data. For example archaeological findings at risk or vandalism or looting.
 
-Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the Australian Privacy Act 1988, "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
+Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the [Australian Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
 
 De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in  the [Commonwealth Privacy Act](https://www.legislation.gov.au/Details/C2016C00979)
 
